@@ -24,4 +24,4 @@ We will discuss the following processor extensions in this chapter:
 [integer_division.cpp](src/integer_division.cpp) is an example of integer division in C++.
 
 # Answers to Exercises
-[Answers to Exercises](Answers%20to%20Exercises/README.md)
+[Answers to Exercises](Answers%20to%20Exercises/)

@@ -26,4 +26,4 @@ The following topics will be presented in this chapter:
 * Building a future-tolerant skill set
 
 # Answers to Exercises
-[Answers to Exercises](Answers%20to%20Exercises/README.md)
+[Answers to Exercises](Answers%20to%20Exercises/)

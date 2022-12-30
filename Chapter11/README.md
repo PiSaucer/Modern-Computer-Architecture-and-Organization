@@ -33,4 +33,4 @@ in a low-cost FPGA board.
 [full_adder.scala](src/full_adder.scala) is the implementation of a full adder in the Chisel domain-specific language within Scala.
 
 # Answers to Exercises
-[Answers to Exercises](Answers%20to%20Exercises/README.md)
+[Answers to Exercises](Answers%20to%20Exercises/)

@@ -33,4 +33,4 @@ We will cover the following topics:
 [bcdedit output](src/bcdedit_output.md) is an example of the BCD (boot configuration data) information stored on a Windows 10 system.
 
 # Answers to Exercises
-[Answers to Exercises](Answers%20to%20Exercises/README.md)
+[Answers to Exercises](Answers%20to%20Exercises/)

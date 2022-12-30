@@ -30,4 +30,4 @@ The following topics will be covered in this chapter:
 * Modern computer system specifications
 
 # Answers to Exercises
-[Answers to Exercises](Answers%20to%20Exercises/README.md)
+[Answers to Exercises](Answers%20to%20Exercises/)

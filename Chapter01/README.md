@@ -56,4 +56,4 @@ File | Description
 Try running this code at https://skilldrick.github.io/easy6502/
 
 # Answers to Exercises
-[Answers to Exercises](Answers%20to%20Exercises/README.md)
+[Answers to Exercises](Answers%20to%20Exercises/)

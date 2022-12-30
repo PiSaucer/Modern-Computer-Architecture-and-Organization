@@ -23,4 +23,4 @@ Th is chapter covers the following topics:
 * Examples of specialized architectures
 
 # Answers to Exercises
-[Answers to Exercises](Answers%20to%20Exercises/README.md)
+[Answers to Exercises](Answers%20to%20Exercises/)

@@ -28,4 +28,4 @@ This chapter covers the following topics:
 [hello_arm64.s](src/hello_arm64.s) is the 64-bit ARM **hello** assembly language program.
 
 # Answers to Exercises
-[Answers to Exercises](Answers%20to%20Exercises/README.md)
+[Answers to Exercises](Answers%20to%20Exercises/)

@@ -30,4 +30,4 @@ The following topics will be covered in this chapter:
 [Adder4.vhdl](src/Adder4.vhdl) is the 4-bit adder design in Figure 2.16.
 
 # Answers to Exercises
-[Answers to Exercises](Answers%20to%20Exercises/README.md)
+[Answers to Exercises](Answers%20to%20Exercises/)

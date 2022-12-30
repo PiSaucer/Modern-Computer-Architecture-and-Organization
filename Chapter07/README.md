@@ -20,4 +20,4 @@ This chapter covers the following topics:
 * The memory management unit
 
 # Answers to Exercises
-[Answers to Exercises](Answers%20to%20Exercises/README.md)
+[Answers to Exercises](Answers%20to%20Exercises/)

@@ -15,4 +15,4 @@ This chapter will cover the following topics:
 * Neural networks and machine learning architectures
 
 # Answers to Exercises
-[Answers to Exercises](Answers%20to%20Exercises/README.md)
+[Answers to Exercises](Answers%20to%20Exercises/)

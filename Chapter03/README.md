@@ -38,4 +38,4 @@ File | Description
 [brk_handler.asm](src/brk_handler.asm) | Break handler.
 
 # Answers to Exercises
-[Answers to Exercises](Answers%20to%20Exercises/README.md)
+[Answers to Exercises](Answers%20to%20Exercises/)

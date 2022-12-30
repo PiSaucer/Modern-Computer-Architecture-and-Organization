@@ -26,4 +26,4 @@ The following topics will be presented in this chapter:
 * Virtualization and cloud computing
 
 # Answers to Exercises
-[Answers to Exercises](Answers%20to%20Exercises/README.md)
+[Answers to Exercises](Answers%20to%20Exercises/)
