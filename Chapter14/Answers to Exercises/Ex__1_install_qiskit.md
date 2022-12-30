@@ -1,10 +1,9 @@
-__Modern Computer Architecture and Organization__, by Jim Ledin. Published by Packt Publishing
 # Chapter 14, Exercise 1
 
-Install the Qiskit quantum processor software development framework by following the instructions at https://qiskit.org/documentation/install.html. The instructions suggest installation of the Anaconda (https://www.anaconda.com/) data science and machine learning tool set. After installing Anaconda, create a Conda virtual environment named *qiskitenv* to contain your work on quantum code and install Qiskit in this environment with the command **pip install qiskit**. Be sure to install the optional visualization dependencies with the command **pip install qiskit-terra[visualization]**. 
+Install the Qiskit quantum processor software development framework by following the instructions at [https://qiskit.org/documentation/install.html](https://qiskit.org/documentation/install.html). The instructions suggest installation of the Anaconda ([https://www.anaconda.com/](https://www.anaconda.com/)) data science and machine learning tool set. After installing Anaconda, create a Conda virtual environment named *qiskitenv* to contain your work on quantum code and install Qiskit in this environment with the command **pip install qiskit**. Be sure to install the optional visualization dependencies with the command **pip install qiskit-terra[visualization]**. 
 
 # Answer
-1. Download the Anaconda installer from https://www.anaconda.com/distribution/. Select the Python 3.7 version, in the appropriate 32-bit or 64-bit variant for your host computer.
+1. Download the Anaconda installer from [https://www.anaconda.com/distribution/](https://www.anaconda.com/distribution/). Select the Python 3.7 version, in the appropriate 32-bit or 64-bit variant for your host computer.
 
 1. Run the Anaconda installer and accept the defaults. Close the installer after it completes.
 

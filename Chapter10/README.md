@@ -1,4 +1,7 @@
-__Modern Computer Architecture and Organization__, by Jim Ledin. Published by Packt Publishing.
+---
+title: Chapter10
+---
+
 # Chapter 10 - Modern Processor Architectures and Instruction Sets
 
 Most modern personal computers contain a processor supporting either the Intel or AMD

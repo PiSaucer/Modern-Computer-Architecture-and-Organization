@@ -1,4 +1,3 @@
-__Modern Computer Architecture and Organization__, by Jim Ledin. Published by Packt Publishing
 # Chapter 2, Exercise 4
 
 Using your VHDL tool set, implement the 4-bit adder using the code listings presented in this chapter.

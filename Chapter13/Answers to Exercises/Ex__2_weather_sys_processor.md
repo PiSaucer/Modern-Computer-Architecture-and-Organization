@@ -1,4 +1,3 @@
-__Modern Computer Architecture and Organization__, by Jim Ledin. Published by Packt Publishing
 # Chapter 13, Exercise 2
 
 For the system of [Exercise 1](Ex__1_weather_sys_diagram.md), identify a suitable commercially available processor and list the reasons that processor is a good choice for this application. Factors to consider include cost, processing speed, tolerance for harsh environments, power consumption, and integrated features, such as RAM and communication interfaces.
@@ -18,7 +17,7 @@ For the system of [Exercise 1](Ex__1_weather_sys_diagram.md), identify a suitabl
   * **Environmental compatibility:** The temperature range specification for the SoM is -40° to +85° C (-40° to +185° F), which should support operation anywhere in the world. The relative humidity tolerance range (20% to 90% RH, non-condensing) will require installation in a weatherproof enclosure.
   * **Processing power:** The SoM contains an [STM32L471QG](https://www.st.com/en/microcontrollers-microprocessors/stm32l4-series.html) 32-bit ARM processor operating at 80 MHz. This processor provides a great deal of capability, including a floating-point unit and dynamic voltage scaling. It is possible to perform extensive preprocessing (filtering, sensor fault detection, etc.) on sensor measurements prior to transmission of data. The flash and RAM within the device should be more than adequate for the application.
   * **Certified solution:** The Dragonfly Nano is certified by the FCC and wireless carriers for use on cellular networks.
-  * **Development support:** Free development tools and online resources are available at https://os.mbed.com/platforms/MTS-Dragonfly-Nano/
+  * **Development support:** Free development tools and online resources are available at [https://os.mbed.com/platforms/MTS-Dragonfly-Nano/](https://os.mbed.com/platforms/MTS-Dragonfly-Nano/)
   
 6. The dashed box in the following diagram indicates the portion of the system implemented by the Dragonfly Nano SoM:
 

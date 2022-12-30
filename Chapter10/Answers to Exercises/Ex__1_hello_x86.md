@@ -1,7 +1,6 @@
-__Modern Computer Architecture and Organization__, by Jim Ledin. Published by Packt Publishing
 # Chapter 10, Exercise 1
 
-Install the free Visual Studio Community edition, available at https://visualstudio.microsoft.com/vs/community/, on a Windows PC. After installation is complete, open the Visual Studio IDE and select **Get Tools and Features…** under the **Tools** menu. Install the **Desktop development with C++** workload.
+Install the free Visual Studio Community edition, available at [https://visualstudio.microsoft.com/vs/community/](https://visualstudio.microsoft.com/vs/community/), on a Windows PC. After installation is complete, open the Visual Studio IDE and select **Get Tools and Features…** under the **Tools** menu. Install the **Desktop development with C++** workload.
 
 In the Windows search box in the Task Bar, start typing **x86 Native Tools Command Prompt for VS 2019**. When the app appears in the search menu, select it to open a command prompt.
 

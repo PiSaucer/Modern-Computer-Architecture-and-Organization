@@ -1,4 +1,3 @@
-__Modern Computer Architecture and Organization__, by Jim Ledin. Published by Packt Publishing
 # Chapter 2, Exercise 6
 
 Expand the test driver code and verify the 4-bit adder produces correct results for all possible combinations of inputs.

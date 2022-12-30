@@ -1,4 +1,3 @@
-__Modern Computer Architecture and Organization__, by Jim Ledin. Published by Packt Publishing
 # Chapter 6, Exercise 3
 The hyperbolic tangent is often used as an activation function in ANNs. The hyperbolic tangent function is defined as follows:
 

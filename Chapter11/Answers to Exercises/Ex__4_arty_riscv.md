@@ -1,14 +1,13 @@
-__Modern Computer Architecture and Organization__, by Jim Ledin. Published by Packt Publishing
 # Chapter 11, Exercise 4
 
 Program an Arty A7-35T board with a RISC-V processor image. Build and run the **hello** assembly language program shown in the *RISC-V assembly language* section in this chapter on the RISC-V processor using the Olimex ARM-TINY-USB-H debugger as described in the *Implementing RISC-V in an FPGA* section near the end of this chapter. Verify the program outputs the text **Hello, Computer Architect!**
 
 # Answer
-The instructions in this answer are based on information provided at https://github.com/sifive/freedom, with some updates to work with more recent versions of libraries. Several of these steps are quite time consuming and the entire process may take several hours.
+The instructions in this answer are based on information provided at [https://github.com/sifive/freedom](https://github.com/sifive/freedom), with some updates to work with more recent versions of libraries. Several of these steps are quite time consuming and the entire process may take several hours.
 
 Steps 1-11 build a RISC-V firmware image in a file named **E300ArtyDevKitFPGAChip.mcs**. If you prefer to skip these steps, you can download [E300ArtyDevKitFPGAChip.mcs](src/E300ArtyDevKitFPGAChip.mcs) directly and continue at step 12.
 
-1. If you already have a Linux system available for this exercise, you can skip to step 2. Otherwise, begin by downloading and installing **VirtualBox** from https://www.virtualbox.org/wiki/Downloads. Download an operating system image from OSBoxes at https://www.osboxes.org/virtualbox-images/. Select the most recent 64-bit Ubuntu VDI image. Follow the instructions at https://www.osboxes.org/guide/ to set up the virtual machine image and get logged in to Linux.
+1. If you already have a Linux system available for this exercise, you can skip to step 2. Otherwise, begin by downloading and installing **VirtualBox** from [https://www.virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads). Download an operating system image from OSBoxes at [https://www.osboxes.org/virtualbox-images/](https://www.osboxes.org/virtualbox-images/). Select the most recent 64-bit Ubuntu VDI image. Follow the instructions at [https://www.osboxes.org/guide/](https://www.osboxes.org/guide/) to set up the virtual machine image and get logged in to Linux.
 
 1. Install and license Vivado in the Linux virtual machine. See the solution to [Chapter 2, Exercise 3](../../Chapter02/Answers%20to%20Exercises/Ex__3_vhdl_setup.md) for Vivado installation instructions for Windows. You can expect some minor differences because you are now installing on Linux.
 
@@ -56,7 +55,7 @@ sudo make install
 sudo apt install scala
 ```
 
-8. Download the RISC-V toolchain from https://www.sifive.com/boards/. Select the **GNU Embedded Toolchain for Ubuntu**. Unzip the file as follows:
+8. Download the RISC-V toolchain from [https://www.sifive.com/boards/](https://www.sifive.com/boards/). Select the **GNU Embedded Toolchain for Ubuntu**. Unzip the file as follows:
 ```
 cd ~
 tar xvf Downloads/riscv64-unknown-elf-gcc-8.3.0-2019.08.0-x86_64-linux-ubuntu14.tar.gz
@@ -68,7 +67,7 @@ export RISCV=/home/osboxes/riscv64-unknown-elf-gcc-8.3.0-2019.08.0-x86_64-linux-
 export PATH=${PATH}:/tools/Xilinx/Vivado/2019.2/bin
 ```
 
-10. Download the Digilent board files from https://github.com/Digilent/vivado-boards/archive/master.zip. Open the zip file in the Linux File Manager and navigate to the /vivado-boards-master/new/board_files/ directory. Copy the entire contents of this directory. Paste the copied contents into /tools/Xilinx/Vivado/2019.2/data/boards/board_files.
+10. Download the Digilent board files from [https://github.com/Digilent/vivado-boards/archive/master.zip](https://github.com/Digilent/vivado-boards/archive/master.zip). Open the zip file in the Linux File Manager and navigate to the /vivado-boards-master/new/board_files/ directory. Copy the entire contents of this directory. Paste the copied contents into /tools/Xilinx/Vivado/2019.2/data/boards/board_files.
 
 11. The RISC-V design is programmed in the [Chisel](https://www.chisel-lang.org/) language. The first **make** command, as follows, compiles the RISC-V chisel code into Verilog HDL. The second **make** command uses Vivado to compile the Verilog into an FPGA binary image. Build the Arty A7-35T RISC-V image with these commands:
 ```
@@ -80,7 +79,7 @@ make -f Makefile.e300artydevkit mcs
 
 When this step completes, the output file is located at **~/freedom/builds/e300artydevkit/obj/E300ArtyDevKitFPGAChip.mcs**
 
-12. Copy the **E300ArtyDevKitFPGAChip.mcs** file to the Windows host. Follow the instructions at  https://www.sifive.com/documentation/freedom-soc/freedom-e300-arty-fpga-dev-kit-getting-started-guide/ to connect the Olimex debugger to the Arty A7 board and flash the **E300ArtyDevKitFPGAChip.mcs** file onto the board.
+12. Copy the **E300ArtyDevKitFPGAChip.mcs** file to the Windows host. Follow the instructions at [https://www.sifive.com/documentation/freedom-soc/freedom-e300-arty-fpga-dev-kit-getting-started-guide/](https://www.sifive.com/documentation/freedom-soc/freedom-e300-arty-fpga-dev-kit-getting-started-guide/) to connect the Olimex debugger to the Arty A7 board and flash the **E300ArtyDevKitFPGAChip.mcs** file onto the board.
 
 13. Close Vivado and shut down the Ubuntu virtual machine. Start FreedomStudio in your Windows (or Linux) host. Keep the Arty A7 USB cable connected to the host computer and keep the Olimex debugger connected to the host.
 

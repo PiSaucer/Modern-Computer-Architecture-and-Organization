@@ -1,4 +1,3 @@
-__Modern Computer Architecture and Organization__, by Jim Ledin. Published by Packt Publishing
 # Chapter 12, Exercise 2
 
 Within the Ubuntu operating system you installed in [Exercise 1](Ex__1_vbox_ubuntu.md), install VirtualBox and then install and bring up a virtual machine version of FreeDOS. Verify that DOS commands such as *echo Hello World!* and *mem* perform properly in the FreeDOS VM. After completing this exercise, you will have implemented an instance of nested virtualization.
@@ -19,7 +18,7 @@ sudo apt update && sudo apt install virtualbox-6.1
 sudo apt-get install p7zip-full
 ```
 
-4. Download a VirtualBox virtual disk image for FreeDOS from https://www.osboxes.org/freedos/. Perform the following steps (assuming the downloaded file is in the *~/Downloads* directory, and the FreeDOS image file name is *1-2.7z*):
+4. Download a VirtualBox virtual disk image for FreeDOS from [https://www.osboxes.org/freedos/](https://www.osboxes.org/freedos/). Perform the following steps (assuming the downloaded file is in the *~/Downloads* directory, and the FreeDOS image file name is *1-2.7z*):
 ```
 cd
 mkdir 'VirtualBox VMs'

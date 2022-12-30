@@ -1,3 +1,7 @@
+---
+title: Chapter01
+---
+
 # Chapter 1 - Introducing Computer Architecture
 
 The architecture of automated computing devices has evolved from mechanical systems
@@ -52,7 +56,7 @@ File | Description
 [add-with-signed-overflow.asm](src/add-with-signed-overflow.asm) | Addition with signed overflow. 
 [subtract-with-signed-underflow.asm](src/subtract-with-signed-underflow.asm) | Subtraction with signed underflow. 
 
-Try running this code at https://skilldrick.github.io/easy6502/
+Try running this code at [https://skilldrick.github.io/easy6502/](https://skilldrick.github.io/easy6502/)
 
 # Answers to Exercises
 [Answers to Exercises](Answers%20to%20Exercises/)

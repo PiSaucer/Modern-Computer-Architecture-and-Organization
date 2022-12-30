@@ -1,4 +1,3 @@
-__Modern Computer Architecture and Organization__, by Jim Ledin. Published by Packt Publishing
 # Chapter 14, Exercise 4
 
 Execute the code from [Exercise 3](Ex__3_run_quantum_local.md) on an IBM quantum computer.
@@ -14,7 +13,7 @@ provider = IBMQ.get_provider(group='open')
 provider.backends()
 ```
 
-3. If you visit the IBM Quantum Experience home page at https://quantum-computing.ibm.com/, you will be able to see the length of the job queues for the available quantum computers. Select a system with sufficient qubits for your circuit and a short job queue. This example assumes the *ibmq_essex* computer is your choice.
+3. If you visit the IBM Quantum Experience home page at [https://quantum-computing.ibm.com/](https://quantum-computing.ibm.com/), you will be able to see the length of the job queues for the available quantum computers. Select a system with sufficient qubits for your circuit and a short job queue. This example assumes the *ibmq_essex* computer is your choice.
 
 1. Add your job to the queue and monitor its status with these commands. The *shots* parameter provides a count of the number of times the circuit will be executed to collect statistical results:
 ```

@@ -1,4 +1,7 @@
-__Modern Computer Architecture and Organization__, by Jim Ledin. Published by Packt Publishing.
+---
+title: Chapter13
+---
+
 # Chapter 13 - Domain-Specific Computer Architectures
 
 This chapter brings together the topics discussed in previous chapters to develop an

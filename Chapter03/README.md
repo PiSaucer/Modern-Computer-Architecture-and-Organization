@@ -1,4 +1,7 @@
-__Modern Computer Architecture and Organization__, by Jim Ledin. Published by Packt Publishing.
+---
+title: Chapter03
+---
+
 # Chapter 3 - Processor Elements
 
 This chapter begins our development of a comprehensive understanding of modern

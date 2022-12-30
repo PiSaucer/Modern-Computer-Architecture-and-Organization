@@ -22,33 +22,20 @@ years. A general understanding of computer processors is helpful but is not requ
 
 # Contents
 
-[Chapter  1 - Introducing Computer Architecture](Chapter01/)
-
-[Chapter  2 - Digital Logic](Chapter02/)
-
-[Chapter  3 - Processor Elements](Chapter03/)
-
-[Chapter  4 - Computer System Components](Chapter04/)
-
-[Chapter  5 - Hardware-Software Interface](Chapter05/)
-
-[Chapter  6 - Specialized Computing Domains](Chapter06/)
-
-[Chapter  7 - Processor and Memory Architectures](Chapter07/)
-
-[Chapter  8 - Performance-Enhancing Techniques](Chapter08/)
-
-[Chapter  9 - Specialized Processor Extensions](Chapter09/)
-
-[Chapter 10 - Modern Processor Architectures and Instruction Sets](Chapter10/)
-
-[Chapter 11 - The RISC-V Architecture and Instruction Set](Chapter11/)
-
-[Chapter 12 - Processor Virtualization](Chapter12/)
-
-[Chapter 13 - Domain-Specific Computer Architectures](Chapter13/)
-
-[Chapter 14 - Future Directions in Computer Architectures](Chapter14/)
+* [Chapter  1 - Introducing Computer Architecture](Chapter01/)
+* [Chapter  2 - Digital Logic](Chapter02/)
+* [Chapter  3 - Processor Elements](Chapter03/)
+* [Chapter  4 - Computer System Components](Chapter04/)
+* [Chapter  5 - Hardware-Software Interface](Chapter05/)
+* [Chapter  6 - Specialized Computing Domains](Chapter06/)
+* [Chapter  7 - Processor and Memory Architectures](Chapter07/)
+* [Chapter  8 - Performance-Enhancing Techniques](Chapter08/)
+* [Chapter  9 - Specialized Processor Extensions](Chapter09/)
+* [Chapter 10 - Modern Processor Architectures and Instruction Sets](Chapter10/)
+* [Chapter 11 - The RISC-V Architecture and Instruction Set](Chapter11/)
+* [Chapter 12 - Processor Virtualization](Chapter12/)
+* [Chapter 13 - Domain-Specific Computer Architectures](Chapter13/)
+* [Chapter 14 - Future Directions in Computer Architectures](Chapter14/)
 
 # Code in Action
 
@@ -100,9 +87,9 @@ This book is for software developers, computer engineering students, system desi
 * MicroPython Projects  [[Packt]](https://www.packtpub.com/in/iot-hardware/micropython-projects?utm_source=github&utm_medium=repository&utm_campaign=9781789958034) [[Amazon]](https://www.amazon.com/dp/B086CXMYZV)
 
 ## Get to Know the Author
+
 **Jim Ledin**
 Jim Ledin is the CEO of Ledin Engineering, Inc. Jim is an expert in embedded software and hardware design, development, and testing. He is also accomplished in embedded system cybersecurity assessment and penetration testing. He has a B.S. degree in aerospace engineering from Iowa State University and an M.S. degree in electrical and computer engineering from Georgia Institute of Technology. Jim is a registered professional electrical engineer in California, a Certifi ed Information System Security Professional (CISSP), a Certifi ed Ethical Hacker (CEH), and a Certified Penetration Tester (CPT).
-
 
 ### Suggestions and Feedback
 [Click here](https://github.com/PiSaucer/Modern-Computer-Architecture-and-Organization/issues) or open an issue if you have any feedback or suggestions.
