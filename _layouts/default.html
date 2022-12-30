@@ -11,6 +11,13 @@
     <link rel="stylesheet" href="{{ "/assets/css/vscode.css?v=" | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="{{ "/assets/css/print.css?v=" | append: site.github.build_revision | relative_url }}" media="print"  />
     {% include head-custom.html %}
+
+    <style>
+        .GitHubOnly {
+            display: none;
+            visibility: hidden;
+        }
+    </style>
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
@@ -26,7 +33,7 @@
       {% include breadcrumbs.html %}
 
       <div id="markdown-content">
-        <p><bold>Modern Computer Architecture and Organization,</bold> by Jim Ledin. Published by Packt Publishing.</p>
+        <p><strong>Modern Computer Architecture and Organization,</strong> by Jim Ledin. Published by Packt Publishing.</p>
           {{ content | inject_anchors }}
       </div>
 
