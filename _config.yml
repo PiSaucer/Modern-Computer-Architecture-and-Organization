@@ -1,6 +1,6 @@
 title: Modern Computer Architecture and Organization
 show_downloads: true
 
-remote_theme: pages-themes/primer@v0.6.0
+remote_theme: pisaucer/tweakprimer@v0.0.1
 plugins:
 - jekyll-remote-theme
