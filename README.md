@@ -73,9 +73,9 @@ Implement a complete RISC-V processor in a low-cost FPGA
 Explore the techniques used in virtual machine implementation 
 Write a quantum computing program and run it on a quantum computer
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1838984399) today!
+If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1838984399) today! 
 
-<a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
+<a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://www.packtpub.com/images/logo-new.svg" 
 alt="https://www.packtpub.com/" border="5" /></a>
 
 ## Instructions and Navigations
@@ -103,10 +103,4 @@ Jim Ledin is the CEO of Ledin Engineering, Inc. Jim is an expert in embedded sof
 
 
 ### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
-
-
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781838984397">https://packt.link/free-ebook/9781838984397 </a> </p>
+[Click here](https://github.com/PiSaucer/Modern-Computer-Architecture-and-Organization/issues) or open an issue if you have any feedback or suggestions.
