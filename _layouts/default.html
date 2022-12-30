@@ -24,8 +24,8 @@
       
       <div class="MainHeader">
             <div style="justify-content: flex-start;">
-                <h1 style="border-bottom: 0px solid rgba(0, 0, 0,0);" class="no-anchor"><a href="{{ "/" | absolute_url }}">{{ site.title }}</a>
-                </h1>
+                <h1 style="border-bottom: 0px solid rgba(0, 0, 0,0);" class="no-anchor"><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
+                <p><strong>Modern Computer Architecture and Organization,</strong> by Jim Ledin. Published by Packt Publishing.</p>
             </div>
         </div>
         <br>
@@ -33,7 +33,6 @@
       {% include breadcrumbs.html %}
 
       <div id="markdown-content">
-        <p><strong>Modern Computer Architecture and Organization,</strong> by Jim Ledin. Published by Packt Publishing.</p>
           {{ content | inject_anchors }}
       </div>
 
