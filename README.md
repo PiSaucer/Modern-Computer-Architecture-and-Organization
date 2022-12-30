@@ -1,4 +1,6 @@
-# Modern Computer Architecture and Organization
+<div class="GitHubOnly">
+    <h1> Modern Computer Architecture and Organization </h1>
+</div>
 
 This book presents the key technologies and components employed in modern processor
 and computer architectures and discusses how various architectural decisions result in
