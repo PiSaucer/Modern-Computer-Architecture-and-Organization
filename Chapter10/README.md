@@ -1,7 +1,3 @@
----
-title: Chapter10
----
-
 # Chapter 10 - Modern Processor Architectures and Instruction Sets
 
 Most modern personal computers contain a processor supporting either the Intel or AMD

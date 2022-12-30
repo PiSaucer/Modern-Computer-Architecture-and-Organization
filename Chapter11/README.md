@@ -1,7 +1,3 @@
----
-title: Chapter11
----
-
 # Chapter 11 - The RISC-V Architecture and Instruction Set
 
 This chapter introduces the exciting, relatively new RISC-V (pronounced *risk five*) processor

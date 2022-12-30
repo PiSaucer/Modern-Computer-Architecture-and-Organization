@@ -1,7 +1,3 @@
----
-title: Chapter13
----
-
 # Chapter 13 - Domain-Specific Computer Architectures
 
 This chapter brings together the topics discussed in previous chapters to develop an

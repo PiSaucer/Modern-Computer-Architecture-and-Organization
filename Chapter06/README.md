@@ -1,7 +1,3 @@
----
-title: Chapter06
----
-
 # Chapter 6 - Specialized Computing Domains
 
 Most computer users are, at least superficially, familiar with key performance-related

@@ -1,7 +1,3 @@
----
-title: Chapter07
----
-
 # Chapter 7 - Processor and Memory Architectures
 
 This chapter takes a deeper look at modern processor architectures, specifically the von

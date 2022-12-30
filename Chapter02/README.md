@@ -1,7 +1,3 @@
----
-title: Chapter02
----
-
 # Chapter 2 - Digital Logic
 
 This chapter builds upon the introductory topics presented in *Chapter 1, Introducing Computer Architecture* and provides a firm understanding of the digital building blocks

@@ -1,7 +1,3 @@
----
-title: Chapter08
----
-
 # Chapter 8 - Performance-Enhancing Techniques
 
 The fundamental aspects of processor and memory architectures discussed in previous

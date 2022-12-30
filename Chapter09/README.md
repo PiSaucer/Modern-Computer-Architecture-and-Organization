@@ -1,7 +1,3 @@
----
-title: Chapter09
----
-
 # Chapter 9 - Specialized Processor Extensions
 
 In the preceding chapters, we discussed the features of general-purpose computer

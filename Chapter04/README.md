@@ -1,7 +1,3 @@
----
-title: Chapter04
----
-
 # Chapter 4 - Computer System Components
 
 This chapter begins with an introduction to the **metal-oxide-semiconductor (MOS)**

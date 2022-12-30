@@ -1,7 +1,3 @@
----
-title: Chapter12
----
-
 # Chapter 12 - Processor Virtualization
 
 This chapter introduces the concepts underlying processor virtualization and explores the
