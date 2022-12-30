@@ -65,7 +65,7 @@ years. A general understanding of computer processors is helpful but is not requ
 [Code in Action videos](Code-in-Action.md)
 
 
-<a href="https://www.packtpub.com/cloud-networking/modern-computer-architecture-and-organization?utm_source=github&utm_medium=repository&utm_campaign=9781838984397"><img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781838984397-original.png" alt="Modern Computer Architecture and Organization " height="256px" align="right"></a>
+<a href="https://www.packtpub.com/product/modern-computer-architecture-and-organization/9781838984397"><img src="https://static.packt-cdn.com/products/9781838984397/cover/smaller" alt="Modern Computer Architecture and Organization " height="256px" align="right"></a>
 
 This is the code repository for [Modern Computer Architecture and Organization ](https://www.packtpub.com/cloud-networking/modern-computer-architecture-and-organization?utm_source=github&utm_medium=repository&utm_campaign=9781838984397), published by Packt.
 
