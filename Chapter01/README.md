@@ -1,7 +1,3 @@
----
-title: Chapter01
----
-
 # Chapter 1 - Introducing Computer Architecture
 
 The architecture of automated computing devices has evolved from mechanical systems
